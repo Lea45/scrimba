@@ -1,0 +1,23 @@
+
+.slika {
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+input {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 30px;
+    border-color: black;
+}
+
+.gumb {
+    margin-top: 30px;
+    text-align: center;
+}
